@@ -1,4 +1,7 @@
 # digital-writing-folio
 This repository is my folio of work for Digital Writing, in Semester 1 of 2026.
 
-My name is Sophia Anastasiadis and I am a 3rd Year Creative Writing student at RMIT. I'm currently reading Frankenstein by Mary Shelley and looking forward to watching the Aus GP.
+## What types of writing do you do (e.g. fiction, nonfiction, poetry)?
+## What tools (or techniques) do you use to write? Why do you use them?
+## How do these tools shape the way you write (e.g., constrain or generate)?
+## What are curious about writing in the digital environment?
