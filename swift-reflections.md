@@ -1,4 +1,6 @@
 # Week One: 
 ## What makes a work a piece E-Literature?
+A piece of E-Literature is a digital piece of writing that is interactive, generative, thematic, and often shaped or gamified. The work can also be linear or non-linear.
 ## Of the key examples above, which did you like most and why?
+I thoroughly enjoyed the hypertext fiction _First Draft of the Revolution_. It reminded me a great deal of the type of "Choose Your Own Adventure" stories that I used to read in primary school, however what I found interesting was the oft-apparent _lack_ of choice in many of the letters. In other words, the letters (despite the illusion of decisionmaking) were actually more likely to lead you linearly down a path until the author's original intent for the narrative was revealed. In this way, the theme of magic or conspiracy was amplified: I felt that many of the letters, despite my changes or lack thereof, had their contents predetermined by a kind of fate that would ultimately create conflicts down the line.
 ## What do you expect from this class? What would you like to be better at by the end of semester?
