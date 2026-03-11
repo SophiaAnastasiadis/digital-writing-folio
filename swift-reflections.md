@@ -13,5 +13,9 @@ Second, I hope that in turn with learning new technological skills, I will learn
 Flores (2019) ‘Third Generation Electronic Literature’  
 ## Q: What defines the ‘Three Generations’ of E-Lit that Flores refers to?
 According to the Flores' text 'Third Generation Electronic Literature' from 2019, the three generations of E-Literature are as follows:
-1. First generation literature, as described by N. Katherine Hayles, consisted of all "pre-web, text-heavy, link driven, mostly hypertext" creative pieces, often relying on many of the same structures associated with printed formats and traditional mediums of writing.
-   *My question: perhaps these texts would have been more linear and narrative driven than second and third generations?*
+1. FIRST GENERATION (or Classic E-Literature): First generation literature, as described by N. Katherine Hayles, consisted of all "pre-web, text-heavy, link driven, mostly hypertext" creative pieces, often relying on many of the same structures associated with printed formats and traditional mediums of writing.
+   
+   *A note, and my own supposition: perhaps these texts would have been more linear and narrative driven than second and third generations?*
+
+2. SECOND GENERATION (or Contemporary E-Literature): N. Katherine Hayles was also the first to define the second generation of E-literature. According to Flores (2019), "She defined the second generation from 1995 onward, as Web based and incorporating multimedia and interactivity." This version of E-Lit is more experimental, generating massive amounts of creative work across the Web.
+3. 
