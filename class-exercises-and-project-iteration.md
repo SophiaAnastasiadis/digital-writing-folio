@@ -6,4 +6,5 @@ Personally, I believe that AI should be used as an assistive tool, not as the ba
 3. Provide examples for research
 
 Essentially, AI is a great database tool, but it isn't effective or ethical in my opinion to generate original/creative material or to use AI as a sounding board for ideas. Another reason for this is that AI is designed to agree with what the user inputs into the machine, so it may not provide the most accurate or relevant information to users.
-I hope that
+
+I hope that people do not become too reliant on AI in future. People should be able to come up with ideas and source research material on their own.
