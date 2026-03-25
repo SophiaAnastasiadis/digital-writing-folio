@@ -35,3 +35,11 @@ Tracking tools certainly make the writing process more efficient and make the wr
 "Today's word count: 1000 words. An idea for X scene: blah blah." etc.
 
 I'm not sure if this is "tracking" so much as keeping a record of things I might forget, but then again I have never been taught the art of tracking so much as I've been taught to reflect post-creation.
+
+# Week Four (Wednesday):
+## Activity: Look at the diagrams on p.93 of (Aarseth 1997) reading and the categories: author; narrator; narratee; reader. Look at the diagrams on p. 103 and 104 of (Ryan 2006) reading and the categories of internal v external interactivity and exploratory v ontological interactivity
+
+### Q: Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?
+When analysing the difference between the hypertext pieces that I read, I found myself bridging the line between game and literature. Most of the pieces were "exploratory", expanding down different "interwoven destiny lines" that ultimately articulated a wider narrative. However, I found myself wanting to skip to the end, win, or pass through the piece as relatively unscathed as possible. In this way, I was gamifying the texts beyond their intended narrative structure.
+
+
