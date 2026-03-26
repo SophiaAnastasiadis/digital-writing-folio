@@ -42,4 +42,14 @@ I'm not sure if this is "tracking" so much as keeping a record of things I might
 ### Q: Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?
 When analysing the difference between the hypertext pieces that I read, I found myself bridging the line between game and literature. Most of the pieces were "exploratory", expanding down different "interwoven destiny lines" that ultimately articulated a wider narrative. However, I found myself wanting to skip to the end, win, or pass through the piece as relatively unscathed as possible. In this way, I was gamifying the texts beyond their intended narrative structure. Especially in the text "Housing Simulator" from 2023, I found that my desire to win actually detracted from the narrative experience, as I 'won' the game too quickly and completely bypassed the actual narrative e-literature that the author desired to share.
 
+# Week Four (Thursday)
+## Thinking about whatever seeds of ideas are gestating in terms of your main digital project for this class, situate your potential digital work both at a personal level and within a broader context/politics. What are your motivators for telling your particular story in the digital space? Does your emerging digital work speak to a broader ethics or politics, or does it relate to a specific community or movement, or else to theory or a certain tradition? It’s okay if you only have an inkling of an idea of what you might do. Use this space to breathe thought into the WHY of what you could potentially do. What is motivating you (aside from it being an assessment task)?
 
+### My thought for my creative piece is to create an adaptable police report/crime scene that would play with the idea of memory and bias. So, for example, the reader could input an eye colour and then a question down the track would be "The perp had blue eyes, right?" Ways I could do this could be:
+- Shifting hypertextual links --> perhaps words are actively being changed? Why? Where and when would they change?
+- Cuts to an ever-adapting narrative?
+- An interview/dialogue style?
+- Form fill-out but the form cannot accept certain words? e.g. if reader inputs "grey jacket" should the form say "that was not correct?"
+
+### What motivates me?
+I am fascinated by this idea of memory recall/memory construction and bias. My family and I watch an obscene amount of crime shows and a lot of them rely on eyewitnesses as part of a larger investigation. In real life, would the questions asked by the police have been any different? How many people are put away for crimes they did not commit based off eyewitness statements? What if the eyewitness is a child, or someone with a neurological impairment? Would this/how would this affect their statement?
