@@ -13,6 +13,6 @@ I hope that people do not become too reliant on AI in future. People should be a
 https://docs.google.com/presentation/d/1AT71JuzZANJNcVtj541lzufDwyCmOUWFfOMJ_6W4pt8/edit?usp=sharing
 
 ## Tasks for next week:
-- Work out what the "real" story is based on my mapping flowchart. What is the most correct outcome for my narrative? Remap if needed.
-- Create an image to go along with that main narrative that will flash at the beginning of the game
-- decide whether the image will be replayed at intervals during the game or if the player will have a couple seconds to remember everything before the image begins to fade
+- Work out what the "real" story is based on my mapping flowchart. What is the most correct outcome for my narrative? Remap if needed.[DONE!]
+- Create an image to go along with that main narrative that will flash at the beginning of the game [DONE!]
+- decide whether the image will be replayed at intervals during the game or if the player will have a couple seconds to remember everything before the image begins to fade [DONE!]
