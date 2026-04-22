@@ -16,3 +16,7 @@ https://docs.google.com/presentation/d/1AT71JuzZANJNcVtj541lzufDwyCmOUWFfOMJ_6W4
 - Work out what the "real" story is based on my mapping flowchart. What is the most correct outcome for my narrative? Remap if needed.[DONE!]
 - Create an image to go along with that main narrative that will flash at the beginning of the game [DONE!]
 - decide whether the image will be replayed at intervals during the game or if the player will have a couple seconds to remember everything before the image begins to fade [DONE!]
+
+## Progress check
+All tasks were completed however they took on a different form than I expected. Once I began mapping my simulator in Twine, I realised that I did not want to sacrifice any plotlines in order to have a 'main' story path, so instead I decided to keep all story paths and allow for three separate images to inform which path the player takes during that run of the sim. E.g, if picture A were to flash, then the player would follow path A. If picture B were to flash, the player would follow path B, etc. etc. Now my main task is to codeify the random set of images into the beginning of the game and to ensure that an image is randomly selected from the set to flash at the beginning of the simulator.
+I know that the coding for this image set is going to be challenging, so I've delayed working on my project to the week of the 20th of April, as I also have some other assignments due and wanted to focus on them while I wait to ask my coding questions in class.
