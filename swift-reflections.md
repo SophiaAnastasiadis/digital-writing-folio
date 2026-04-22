@@ -53,3 +53,8 @@ When analysing the difference between the hypertext pieces that I read, I found 
 
 ### What motivates me?
 I am fascinated by this idea of memory recall/memory construction and bias. My family and I watch an obscene amount of crime shows and a lot of them rely on eyewitnesses as part of a larger investigation. In real life, would the questions asked by the police have been any different? How many people are put away for crimes they did not commit based off eyewitness statements? What if the eyewitness is a child, or someone with a neurological impairment? Would this/how would this affect their statement?
+
+# SWIFT REFLECTION: Iteration #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
+## Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
+I've had to adapt my work a few times to nail down the functionality and ensure that the rooms would lead users where they were supposed to go. At first, I believed that I could simply have changing (appending) text and then a SUBMIT HERE button and that would satisfy my options for players, but it was a complete fail functionally and I then realised that I had to code individual options/rooms for every player choice, rather than the singular submit button.
+Also, I've tried a few different codes in order to have an image selected to FLASH at the start of the sim, but none of those worked so I will need to attempt another method.
