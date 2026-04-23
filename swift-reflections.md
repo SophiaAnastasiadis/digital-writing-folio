@@ -66,3 +66,6 @@ The purpose of my piece is to convey the notion that eye-witness/victim biases w
 ## What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
 The vision for my piece is a hypertextual, interview-style Police Report Simulator in which the number of leading questions the player answers informs whether or not the proverbial "culprit" is caught. My prototyped rooms functionally reflect the different paths/options players can take, and their decisions whether or not to answer various leading questions. However, I still have some work to do stylistically to achieve my vision of a question/answer format.
 ## What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+- Complete the stylesheet for my map
+- Bulk out the first four rooms of my map
+- beginning scripting and formatting my slides
