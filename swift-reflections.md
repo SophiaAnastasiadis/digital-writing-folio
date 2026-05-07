@@ -69,3 +69,6 @@ The vision for my piece is a hypertextual, interview-style Police Report Simulat
 - Complete the stylesheet for my map
 - Bulk out the first four rooms of my map
 - beginning scripting and formatting my slides
+
+### Claude Assistance Documentation: 07/05/2026
+https://claude.ai/share/6f413a08-116c-4527-99a9-7c3c40456289
