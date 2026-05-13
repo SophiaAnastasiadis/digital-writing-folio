@@ -75,7 +75,7 @@ https://claude.ai/share/6f413a08-116c-4527-99a9-7c3c40456289
 
 # 13/05/26 - THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
 ## Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
-The most impactful piece of feedback I received was to ensure that there is varying brevity across my story so as to maintain the fast-paced chaos of a victim report while also including enough description and introspection to create a sense of vulnerability in the narrator. Additionally,m both people who gave feedbcak to me suggested either adding a loop to the first few options of my piece (which I'd rather not do, as we're trying to create a narrative rather than a game) or make it clearer that once you make a choice, you can't go back.
+The most impactful piece of feedback I received was to ensure that there is varying brevity across my story so as to maintain the fast-paced chaos of a victim report while also including enough description and introspection to create a sense of vulnerability in the narrator. Additionally, both people who gave feedback to me suggested either adding a loop to the first few options of my piece (which I'd rather not do, as we're trying to remove as much of the gameified nature to the piece as possible) or make it clearer that once you make a choice, you can't go back. I've decided to work more on the later, as well as continuing to style my piece with blurs and delays to make the interactivity more interesting and prettier.
 
 For next week, I need to:
 1. Style
