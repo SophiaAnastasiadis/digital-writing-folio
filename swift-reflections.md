@@ -72,3 +72,8 @@ The vision for my piece is a hypertextual, interview-style Police Report Simulat
 
 ### Claude Assistance Documentation: 07/05/2026
 https://claude.ai/share/6f413a08-116c-4527-99a9-7c3c40456289
+
+# 13/05/26 - THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+## Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
+The most impactful piece of feedback I received was to ensure that there is varying brevity across my story so as to maintain the fast-paced chaos of a victim report while also including enough description and introspection to create a sense of vulnerability in the narrator.
+
