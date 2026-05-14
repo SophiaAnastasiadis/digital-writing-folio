@@ -85,10 +85,18 @@ For next week, I need to:
 2. Make the urgency of my first choice clearer
 3. Ensure that there is more than just a blank link in every room
 
-# Thursday 14/05/26 Swift reflection
+# Thursday 14/05/26 Swift reflection 1
 ## What place do affect and emotion have in digital works?
 Affect and emotion, whether they be the autobiographical musings of the author or an exploration of an idea/theme through fiction, are what separates e-literature from games. Of course, while games can have emotive story arcs, a narrative and thematic meaning in e-lit work is far more complex, nuanced and/or well researched and documented.
 ## How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?
 Theory often serves a sounding board through which a creator can grapple with their own methodology in a way that either supports and amplifies it, or challenges it in a new and diversifying way. These theories can be implimented at any point in the process of writing, but especially retrospectively, to discover new insights for the work.
 ## What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?
 Rather than simply writing "what was done and how", adding a narrative arc to a piece of reflective writing (as was done in this piece) not only adds crucial context to the development of the e-lit work, but allows readers to urge on and see the value in the development of the e-lit piece. In other words, readers can see how crucial that piece of writing might be to the author, and to the world at large.
+
+# Thursday 14/05/26 Swift reflection 2
+## Complete a SWIFT REFLECTION which is a partial, 250-word draft Critical Reflection #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+We are witness to countless events, innocuous or hostile, memorable or otherwise, across our lives... but how much of these things do we actually recall after the fact? Can we be swayed by the questions that people ask, or by the comments and reflections (the meanings we place) on them after the fact? These are all questions I aimed to answer with my work of e-literature called "The One That Got Away". More than just a Katy Perry lyric, the phrase "The One That Got Away" could be anything: a memory, an image, or (most importantly for my purposes) a suspect in a crime.
+
+Our memories are notoriously fallible. I've witnessed (if you'll pardon the pun) an enormous number of examples to that fact, both anecdotally, through watching serialised Cop television with my family, and also through the study of memory as part of VCE psychology. The idea that our memories are "not as [they seem]" (Anastasiadis, 2026) has fascinated me for about five years, although I've never had the opportunity to interrogate (another pun!) and experiment with this notion on such a large scale before.
+
+This brings me to my creative e-literature piece and how it works. Structured both as a first-person narrative and a question/answer simulator format, my piece allows users to test both their memory and their ability to avoid leading questions. In short, the more leading questions the user answers, the more likely the culprit is to get away.
