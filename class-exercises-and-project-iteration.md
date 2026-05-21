@@ -24,7 +24,7 @@ I know that the coding for this image set is going to be challenging, so I've de
 # Copy of link to presentation slides for Assigment 2
 https://docs.google.com/presentation/d/1AT71JuzZANJNcVtj541lzufDwyCmOUWFfOMJ_6W4pt8/edit?usp=sharing
 
-# PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3 #
+FROM WEDNESDAY, 20TH OF MAY, 2026: # PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3 #
 ## Check the full submission instructions for assessment 3 What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5.
 Priority list:
 1. ~~Have my final piece of e-lit approved by Jenny (21/05/26)~~
